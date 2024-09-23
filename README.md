@@ -12,3 +12,7 @@ TensorFlow
 TensorFlow Hub
 OpenCV
 NumPy
+
+
+https://github.com/user-attachments/assets/6964181e-662b-4712-ba77-c08921a84a41
+
